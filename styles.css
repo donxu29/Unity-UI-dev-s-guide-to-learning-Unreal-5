@@ -3,7 +3,13 @@ body{
     font-size:larger;
     margin: 0 auto;
     margin-top: 70px;
-    width: 50%;
-    max-width: 900px;
+    width: 60%;
+    max-width: 1000px;
     line-height: 1.6;
+    background-color: rgb(255, 246, 240);
+    color: rgb(44, 11, 3);
+}
+
+h2{
+    text-transform: uppercase;
 }
